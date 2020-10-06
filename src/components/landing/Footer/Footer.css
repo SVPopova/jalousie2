@@ -1,0 +1,19 @@
+.footer__layout {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: flex-end;
+  margin: 0 auto;
+  max-width: 960px;
+}
+.footer__layout .copyrights {
+  font-size: 15px;
+  color: #403f3f;
+  margin: 0;
+}
+.footer__layout .create-site {
+  font-size: 15px;
+  color: #403f3f;
+  margin: 0px;
+}

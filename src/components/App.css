@@ -1,0 +1,44 @@
+@font-face {
+  font-family: "futura press";
+  src: url("../fonts/futurapresspress-webfont.eot");
+  src: url("../fonts/futurapresspress-webfont.eot@") format("embedded-opentype"),
+    url("../fonts/futurapresspress-webfont.woff2") format("woff2"),
+    url("../fonts/futurapresspress-webfont.woff") format("woff"),
+    url("../fonts/futurapresspress-webfont.ttf") format("truetype"),
+    url("../fonts/futurapresspress-webfont.svg") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: "futura bookC";
+  src: url("../fonts/futurabookc-webfont.eot");
+  src: url("../fonts/futurabookc-webfont.eot@") format("embedded-opentype"),
+    url("../fonts/futurabookc-webfont.woff2") format("woff2"),
+    url("../fonts/futurabookc-webfont.woff") format("woff"),
+    url("../fonts/futurabookc-webfont.ttf") format("truetype"),
+    url("../fonts/futurabookc-webfont.svg") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: "futura demiC";
+  src: url("../fonts/futurademic-webfont.eot");
+  src: url("../fonts/futurademic-webfont.eot@") format("embedded-opentype"),
+    url("../fonts/futurademic-webfont.woff2") format("woff2"),
+    url("../fonts/futurademic-webfont.woff") format("woff"),
+    url("../fonts/futurademic-webfont.ttf") format("truetype"),
+    url("../fonts/futurademic-webfont.svg") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+.page {
+  width: 100%;
+  min-height: 100vh;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+  -moz-text-size-adjust: 100%;
+  margin: auto;
+  position: relative;
+}

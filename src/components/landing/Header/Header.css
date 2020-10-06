@@ -1,0 +1,49 @@
+.header {
+  position: fixed;
+  background-color: rgba(0, 0, 0, 0.8);
+
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: space-evenly;
+  align-items: center;
+  margin: 0 auto;
+  z-index: 10;
+}
+.header__logo {
+  width: 195px;
+  height: 63px;
+}
+.header__menu {
+}
+.header__link {
+  font-size: 20px;
+  color: #ffffff;
+  text-transform: uppercase;
+  text-decoration: none;
+  font-family: "futura bookC", sans-serif;
+  line-height: 1;
+  text-align: center;
+  margin: 0 10px;
+  padding: 0;
+}
+.header__link:hover {
+  border-bottom: solid 3px #67bbbd;
+  transition: border-bottom linear 0.1s;
+}
+.header__tel {
+  font-family: "futura demiC", sans-serif;
+  font-size: 20px;
+  color: #ffffff;
+  padding-right: 5px;
+  text-decoration: none;
+  margin: 0;
+  padding: 0;
+  line-height: 1;
+  text-align: center;
+}
+.header__tel:hover {
+  color: #67bbbd;
+  transition: color linear 0.1s;
+}

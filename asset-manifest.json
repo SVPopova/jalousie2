@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/jalousie2/static/css/main.bacb506a.chunk.css",
+    "main.js": "/jalousie2/static/js/main.3041cff6.chunk.js",
+    "main.js.map": "/jalousie2/static/js/main.3041cff6.chunk.js.map",
+    "runtime-main.js": "/jalousie2/static/js/runtime-main.84775935.js",
+    "runtime-main.js.map": "/jalousie2/static/js/runtime-main.84775935.js.map",
+    "static/js/2.4ead18a2.chunk.js": "/jalousie2/static/js/2.4ead18a2.chunk.js",
+    "static/js/2.4ead18a2.chunk.js.map": "/jalousie2/static/js/2.4ead18a2.chunk.js.map",
+    "index.html": "/jalousie2/index.html",
+    "precache-manifest.2457b41692aaf13558e0d883194086fd.js": "/jalousie2/precache-manifest.2457b41692aaf13558e0d883194086fd.js",
+    "service-worker.js": "/jalousie2/service-worker.js",
+    "static/css/main.bacb506a.chunk.css.map": "/jalousie2/static/css/main.bacb506a.chunk.css.map",
+    "static/js/2.4ead18a2.chunk.js.LICENSE.txt": "/jalousie2/static/js/2.4ead18a2.chunk.js.LICENSE.txt",
+    "static/media/Main.css": "/jalousie2/static/media/girl.32ef4ebd.png",
+    "static/media/boy.svg": "/jalousie2/static/media/boy.4c2e4c21.svg",
+    "static/media/deadline.svg": "/jalousie2/static/media/deadline.283e980a.svg",
+    "static/media/App.css": "/jalousie2/static/media/futurapresspress-webfont.af4d4569.ttf",
+    "static/media/house.svg": "/jalousie2/static/media/house.139d37c9.svg",
+    "static/media/offer.svg": "/jalousie2/static/media/offer.e2a5dfdc.svg",
+    "static/media/safe.svg": "/jalousie2/static/media/safe.0cb84b7b.svg",
+    "static/media/trophy.svg": "/jalousie2/static/media/trophy.25bbf494.svg",
+    "static/media/warranty.svg": "/jalousie2/static/media/warranty.d83316c0.svg",
+    "static/media/zhaluzi1.jpg": "/jalousie2/static/media/zhaluzi1.5f162426.jpg",
+    "static/media/zhaluzi2.jpg": "/jalousie2/static/media/zhaluzi2.b83e2d08.jpg",
+    "static/media/zhaluzi3.jpg": "/jalousie2/static/media/zhaluzi3.c5da25c6.jpg",
+    "static/media/zhaluzi4.jpg": "/jalousie2/static/media/zhaluzi4.c5660dde.jpg",
+    "static/media/zhaluzi6.jpg": "/jalousie2/static/media/zhaluzi6.96400a46.jpg",
+    "static/media/zhaluzi7.png": "/jalousie2/static/media/zhaluzi7.f4c4d56e.png",
+    "static/media/zhaluzi8.jpg": "/jalousie2/static/media/zhaluzi8.097c9ba7.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.84775935.js",
+    "static/js/2.4ead18a2.chunk.js",
+    "static/css/main.bacb506a.chunk.css",
+    "static/js/main.3041cff6.chunk.js"
+  ]
+}

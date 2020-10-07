@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b8024045f42cfa196bb4f912e0b9a32f",
+    "revision": "32a88ffff2b18cbd37aa41753a614b6c",
     "url": "/jalousie2/index.html"
   },
   {
-    "revision": "a32b3dc329299c03a61f",
-    "url": "/jalousie2/static/css/main.bacb506a.chunk.css"
+    "revision": "679e7abe9baf826fa726",
+    "url": "/jalousie2/static/css/main.94454285.chunk.css"
   },
   {
     "revision": "a00597bd9077beff1b08",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/jalousie2/static/js/2.4ead18a2.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a32b3dc329299c03a61f",
-    "url": "/jalousie2/static/js/main.3041cff6.chunk.js"
+    "revision": "679e7abe9baf826fa726",
+    "url": "/jalousie2/static/js/main.f4f17571.chunk.js"
   },
   {
     "revision": "f3f0738baa8d2561b92d",
@@ -28,12 +28,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/jalousie2/static/media/babygirl.259f263a.jpg"
   },
   {
-    "revision": "4c2e4c219268c9e4c2d5e1a79576460f",
-    "url": "/jalousie2/static/media/boy.4c2e4c21.svg"
+    "revision": "f84d32ef38605437f979fca13b593cc7",
+    "url": "/jalousie2/static/media/boy.f84d32ef.svg"
   },
   {
-    "revision": "283e980afa56eda2b8c99086e34fa0d2",
-    "url": "/jalousie2/static/media/deadline.283e980a.svg"
+    "revision": "7c6607e8899dc0f5fd05a965b1b92b63",
+    "url": "/jalousie2/static/media/deadline.7c6607e8.svg"
   },
   {
     "revision": "180cefe679aec95ac7007580b26966ce",
@@ -112,24 +112,24 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/jalousie2/static/media/girl.32ef4ebd.png"
   },
   {
-    "revision": "139d37c9d0a335b5e575704559eefef9",
-    "url": "/jalousie2/static/media/house.139d37c9.svg"
+    "revision": "830453caad2512931b7cfe7729245d32",
+    "url": "/jalousie2/static/media/house.830453ca.svg"
   },
   {
-    "revision": "e2a5dfdc0aa58520aa11a46630ca6b7e",
-    "url": "/jalousie2/static/media/offer.e2a5dfdc.svg"
+    "revision": "a1351c883edd754026624baf3e47d67a",
+    "url": "/jalousie2/static/media/offer.a1351c88.svg"
   },
   {
-    "revision": "0cb84b7bedea74f3663665ad558522e8",
-    "url": "/jalousie2/static/media/safe.0cb84b7b.svg"
+    "revision": "c3178c6caed689ec5924cf842a594468",
+    "url": "/jalousie2/static/media/safe.c3178c6c.svg"
   },
   {
-    "revision": "25bbf494598fc454e13637fc8f71f071",
-    "url": "/jalousie2/static/media/trophy.25bbf494.svg"
+    "revision": "6f16a1574f4c39d517c95047d31a1767",
+    "url": "/jalousie2/static/media/trophy.6f16a157.svg"
   },
   {
-    "revision": "d83316c0fbb9b40e562077def907be6d",
-    "url": "/jalousie2/static/media/warranty.d83316c0.svg"
+    "revision": "a1d5fc141df319dbeaba1f873ad3c878",
+    "url": "/jalousie2/static/media/warranty.a1d5fc14.svg"
   },
   {
     "revision": "5f16242668d7d9559daf6e45d251629a",

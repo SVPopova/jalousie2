@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5c5649dde06931acfd9f8ec1e9b5da20",
+    "revision": "a3efef95ba56799fe8ca2015d93767bb",
     "url": "/jalousie2/index.html"
   },
   {
-    "revision": "c67e6e566cccb495f7ac",
+    "revision": "56bd57ee57e9510b3e9f",
     "url": "/jalousie2/static/css/main.6bb95440.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/jalousie2/static/js/2.1887cf41.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c67e6e566cccb495f7ac",
-    "url": "/jalousie2/static/js/main.c71344b0.chunk.js"
+    "revision": "56bd57ee57e9510b3e9f",
+    "url": "/jalousie2/static/js/main.0ece5ba0.chunk.js"
   },
   {
     "revision": "f3f0738baa8d2561b92d",

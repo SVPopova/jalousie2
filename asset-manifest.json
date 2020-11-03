@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/jalousie2/static/css/main.6bb95440.chunk.css",
-    "main.js": "/jalousie2/static/js/main.c71344b0.chunk.js",
-    "main.js.map": "/jalousie2/static/js/main.c71344b0.chunk.js.map",
+    "main.js": "/jalousie2/static/js/main.0ece5ba0.chunk.js",
+    "main.js.map": "/jalousie2/static/js/main.0ece5ba0.chunk.js.map",
     "runtime-main.js": "/jalousie2/static/js/runtime-main.84775935.js",
     "runtime-main.js.map": "/jalousie2/static/js/runtime-main.84775935.js.map",
     "static/js/2.1887cf41.chunk.js": "/jalousie2/static/js/2.1887cf41.chunk.js",
     "static/js/2.1887cf41.chunk.js.map": "/jalousie2/static/js/2.1887cf41.chunk.js.map",
     "index.html": "/jalousie2/index.html",
-    "precache-manifest.108c432bb82c7f03b281a5cbb9975376.js": "/jalousie2/precache-manifest.108c432bb82c7f03b281a5cbb9975376.js",
+    "precache-manifest.0c868197c6acd848e245347cdf4254a1.js": "/jalousie2/precache-manifest.0c868197c6acd848e245347cdf4254a1.js",
     "service-worker.js": "/jalousie2/service-worker.js",
     "static/css/main.6bb95440.chunk.css.map": "/jalousie2/static/css/main.6bb95440.chunk.css.map",
     "static/js/2.1887cf41.chunk.js.LICENSE.txt": "/jalousie2/static/js/2.1887cf41.chunk.js.LICENSE.txt",
@@ -331,6 +331,6 @@
     "static/js/runtime-main.84775935.js",
     "static/js/2.1887cf41.chunk.js",
     "static/css/main.6bb95440.chunk.css",
-    "static/js/main.c71344b0.chunk.js"
+    "static/js/main.0ece5ba0.chunk.js"
   ]
 }
